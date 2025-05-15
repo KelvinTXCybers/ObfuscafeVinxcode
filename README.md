@@ -1,4 +1,4 @@
-# Encrypt Rull-XD by VINXCODE
+# Encrypt OBF VINXCODE
 
 Script enkripsi obfuscafe
 

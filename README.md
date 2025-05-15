@@ -4,7 +4,7 @@ Script enkripsi obfuscafe
 
 ## Cara Install
 
-![Profile Picture](IMG_20250511_102814_154.jpg)
+![Profile Picture](IMG_20250511_101946.jpg)
 
 ### Termux / Linux:
 ```bash

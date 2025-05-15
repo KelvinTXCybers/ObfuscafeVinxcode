@@ -10,5 +10,5 @@ Script enkripsi obfuscafe
 ```bash
 pkg install python git -y
 git clone https://github.com/KelvinTXCybers/ObfuscafeVinxcode.git
-cd Obfuscafe Vinxcode
+cd ObfuscafeVinxcode
 python encode_Obf.py
